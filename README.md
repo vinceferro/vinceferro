@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I go by Vince and I have a passion for technology, passion that I have turned into a profession since 2011.
+
+I am currently interest in blockchain and decentralized systems. I have recently completed the MacroDAO Bootcamp, a comprehensive program that covers the basics of smart contract development and decentralized finance. The bootcamp has helped me to develop solid skills in Solidity and to understand the intricacies of building decentralized applications on the Ethereum blockchain.
+
+I am always looking for new and exciting projects to work on, and I am open to collaboration and mentorship opportunities. If you are interested in working together on a project, please don't hesitate to reach out to me!
+
+### Link to resume
+
+https://drive.google.com/file/d/1qLQ2bo9vXE7fWGNqcLd0FpYYCG-losVw/view?usp=sharing
