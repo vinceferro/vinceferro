@@ -23,4 +23,4 @@ I am always looking for new and exciting projects to work on, and I am open to c
 
 ### Link to resume
 
-https://drive.google.com/file/d/1dr_tTSv9-qvnDmpTG8mz6KoIkymfzKgu/view?usp=sharing
+[Here you go! ⚡️](https://drive.google.com/file/d/1HD9Q9Th7yK2UxeHYbzIWoN8v3cTNqU4y/view?usp=sharing)
